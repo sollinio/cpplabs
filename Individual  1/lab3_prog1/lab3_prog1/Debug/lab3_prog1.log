@@ -1,0 +1,4 @@
+﻿  Subtractor.cpp
+c:\users\mczoff\documents\laboratory 2017\lab3_prog1\lab3_prog1\subtractor.cpp(73): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab3_prog1.vcxproj -> C:\Users\McZoff\Documents\Laboratory 2017\lab3_prog1\Debug\lab3_prog1.exe
+  lab3_prog1.vcxproj -> C:\Users\McZoff\Documents\Laboratory 2017\lab3_prog1\Debug\lab3_prog1.pdb (Partial PDB)
