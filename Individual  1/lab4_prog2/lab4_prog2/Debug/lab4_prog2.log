@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\users\mczoff\documents\laboratory 2017\lab4_prog2\lab4_prog2\adapterclass.h(7): warning C4584: AdapterClass: базовый класс "IFormattable" уже является базовым классом для "Deck"
+  c:\users\mczoff\documents\laboratory 2017\lab4_prog2\lab4_prog2\iformattable.h(6): note:  см. объявление "IFormattable"
+  c:\users\mczoff\documents\laboratory 2017\lab4_prog2\lab4_prog2\deck.h(7): note:  см. объявление "Deck"
+  Deck.cpp
+  AdapterClass.cpp
+c:\users\mczoff\documents\laboratory 2017\lab4_prog2\lab4_prog2\adapterclass.h(7): warning C4584: AdapterClass: базовый класс "IFormattable" уже является базовым классом для "Deck"
+  c:\users\mczoff\documents\laboratory 2017\lab4_prog2\lab4_prog2\iformattable.h(6): note:  см. объявление "IFormattable"
+  c:\users\mczoff\documents\laboratory 2017\lab4_prog2\lab4_prog2\deck.h(7): note:  см. объявление "Deck"
+  Создание кода...
+  Пропуск... (изменения не обнаружены)
+  AdapterObject.cpp
+  lab4_prog2.vcxproj -> C:\Users\McZoff\Documents\Laboratory 2017\lab4_prog2\Debug\lab4_prog2.exe
+  lab4_prog2.vcxproj -> C:\Users\McZoff\Documents\Laboratory 2017\lab4_prog2\Debug\lab4_prog2.pdb (Partial PDB)
