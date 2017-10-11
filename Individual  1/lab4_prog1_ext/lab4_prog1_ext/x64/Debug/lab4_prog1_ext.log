@@ -1,0 +1,13 @@
+﻿  Player.cpp
+c:\users\mczoff\documents\github\cpplabs\individual  1\lab4_prog1_ext\lab4_prog1_ext\player.cpp(39): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  main.cpp
+  Game.cpp
+c:\users\mczoff\documents\github\cpplabs\individual  1\lab4_prog1_ext\lab4_prog1_ext\game.cpp(202): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Gambler.cpp
+  Deck.cpp
+c:\users\mczoff\documents\github\cpplabs\individual  1\lab4_prog1_ext\lab4_prog1_ext\deck.cpp(56): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Dealer.cpp
+  Card.cpp
+  Создание кода...
+  lab4_prog1_ext.vcxproj -> C:\Users\McZoff\Documents\GitHub\cpplabs\Individual  1\lab4_prog1_ext\x64\Debug\lab4_prog1_ext.exe
+  lab4_prog1_ext.vcxproj -> C:\Users\McZoff\Documents\GitHub\cpplabs\Individual  1\lab4_prog1_ext\x64\Debug\lab4_prog1_ext.pdb (Partial PDB)

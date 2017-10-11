@@ -1,7 +1,0 @@
-﻿  Game.cpp
-c:\users\mczoff\documents\laboratory 2017\lab4_prog1_ext\lab4_prog1_ext\game.cpp(202): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Deck.cpp
-c:\users\mczoff\documents\laboratory 2017\lab4_prog1_ext\lab4_prog1_ext\deck.cpp(56): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Создание кода...
-  lab4_prog1_ext.vcxproj -> C:\Users\McZoff\Documents\Laboratory 2017\lab4_prog1_ext\Debug\lab4_prog1_ext.exe
-  lab4_prog1_ext.vcxproj -> C:\Users\McZoff\Documents\Laboratory 2017\lab4_prog1_ext\Debug\lab4_prog1_ext.pdb (Partial PDB)

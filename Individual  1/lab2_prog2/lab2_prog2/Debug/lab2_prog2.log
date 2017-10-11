@@ -1,7 +1,0 @@
-﻿  main.cpp
-  fraction.cpp
-c:\users\mczoff\documents\github\cpplabs\individual  1\lab2_prog2\lab2_prog2\fraction.cpp(46): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-c:\users\mczoff\documents\github\cpplabs\individual  1\lab2_prog2\lab2_prog2\fraction.cpp(70): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-  Создание кода...
-  lab2_prog2.vcxproj -> C:\Users\McZoff\Documents\GitHub\cpplabs\Individual  1\lab2_prog2\Debug\lab2_prog2.exe
-  lab2_prog2.vcxproj -> C:\Users\McZoff\Documents\GitHub\cpplabs\Individual  1\lab2_prog2\Debug\lab2_prog2.pdb (Partial PDB)

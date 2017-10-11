@@ -1,5 +1,0 @@
-﻿  array.cpp
-c:\users\mczoff\documents\laboratory 2017\lab1_prog2\lab1_prog2\array.cpp(18): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\mczoff\documents\laboratory 2017\lab1_prog2\lab1_prog2\array.cpp(53): warning C4018: <: несоответствие типов со знаком и без знака
-  lab1_prog2.vcxproj -> C:\Users\McZoff\Documents\Laboratory 2017\lab1_prog2\Debug\lab1_prog2.exe
-  lab1_prog2.vcxproj -> C:\Users\McZoff\Documents\Laboratory 2017\lab1_prog2\Debug\lab1_prog2.pdb (Partial PDB)

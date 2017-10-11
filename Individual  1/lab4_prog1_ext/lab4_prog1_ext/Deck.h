@@ -14,7 +14,7 @@ protected:
 	Card* cards;
 	int countCards = 0;
 	const int countSuit = 4;
-
+	
 public:
 	Deck();
 	void initDeck(TypeDeck type);
